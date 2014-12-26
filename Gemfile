@@ -10,7 +10,7 @@ gem 'sequel_pg', require: 'sequel'
 gem 'kosapi_client', github: 'cvut/kosapi_client.rb'
 
 ## REST API
-gem 'pliny', '~> 0.2.1'
+gem 'pliny', '~> 0.5.0'
 gem 'grape', '~> 0.9.0'
 gem 'warden', '~> 1.2.3' # authentication middleware
 
